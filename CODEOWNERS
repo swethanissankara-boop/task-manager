@@ -1,0 +1,13 @@
+# Member A: replace these placeholders with the real GitHub usernames before the first commit.
+# GitHub automatically asks the owner to review any PR that changes their files.
+# The LAST matching line wins, so general rules come first and specific rules after.
+#
+# A = Team Lead, B = Frontend, C = Backend, D = Database, E = Testing and CI
+
+*                        @member-A-username
+/frontend/               @member-B-username
+/backend/                @member-C-username
+/backend/models/         @member-D-username
+/database/               @member-D-username
+/tests/                  @member-E-username
+/.github/workflows/      @member-E-username
